@@ -120,7 +120,7 @@ C:\Users<YourUsername>\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugin
 ---
 
 ## License
-This plugin is licensed under the **GNU General Public License v2.0 or later**.  
+This plugin is licensed under the **GNU General Public License v2.0 or later[https://github.com/AnustupJana/SelfIntersection-plugin/blob/main/LICENSE]**.  
 See the LICENSE file for details.
 
 ---
