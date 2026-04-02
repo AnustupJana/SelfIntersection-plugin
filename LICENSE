@@ -1,0 +1,85 @@
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+                            Preamble
+
+The licenses for most software are designed to take away your freedom
+to share and change it. By contrast, the GNU General Public License
+is intended to guarantee your freedom to share and change free
+software—to make sure the software is free for all its users.
+
+This General Public License applies to most of the Free Software
+Foundation's software and to any other program whose authors commit
+to using it. (Some other Free Software Foundation software is covered
+by the GNU Lesser General Public License instead.)
+
+When we speak of free software, we are referring to freedom, not price.
+Our General Public Licenses are designed to make sure that you have
+the freedom to distribute copies of free software (and charge for
+this service if you wish), that you receive source code or can get it,
+that you can change the software or use pieces of it in new free programs.
+
+To protect your rights, we need to make restrictions that forbid anyone
+to deny you these rights or to ask you to surrender the rights.
+
+                    GNU GENERAL PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+0. This License applies to any program or other work which contains
+a notice placed by the copyright holder saying it may be distributed
+under the terms of this General Public License.
+
+1. You may copy and distribute verbatim copies of the Program's
+source code as you receive it, provided that you publish appropriate
+copyright notices and disclaimers.
+
+2. You may modify your copy or copies of the Program and distribute
+such modifications under the same license, provided that:
+   a) You must state that you changed the files
+   b) You must license the whole work under GPL
+
+3. You may distribute the program in executable form if you also:
+   a) Provide the complete source code, OR
+   b) Provide a written offer to supply the source code
+
+4. You may not copy, modify, sublicense, or distribute the Program
+except as provided under this License.
+
+5. You are not required to accept this License, but nothing else grants
+you permission to modify or distribute the Program.
+
+6. Each time you redistribute the Program, recipients automatically
+receive the same license.
+
+7. If conditions contradict this License, you may not distribute the Program.
+
+8. The original author may restrict distribution in certain countries.
+
+9. The Free Software Foundation may publish revised versions of this license.
+
+                            NO WARRANTY
+
+11. BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY.
+
+12. IN NO EVENT WILL ANY COPYRIGHT HOLDER BE LIABLE FOR DAMAGES.
+
+------------------------------------------------------------
+
+Self Intersection Check QGIS Plugin
+Copyright (C) 2026 Anustup Jana
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
